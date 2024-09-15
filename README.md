@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dnyanu18
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Degree For Course Computer Engineering 
+- 🌱 I’m currently learning  Course of Computer Engineering 
 - 💞️ I’m looking to collaborate with all of you
 - 📫 reach me at dnyaneshwarbpatil45@gmail.com
 <!---
